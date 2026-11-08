@@ -119,18 +119,6 @@ O desenvolvimento foi planejado considerando etapas de:
 6. Testes e validação.
 7. Documentação e preparação da entrega.
 
-## 🎓 Contexto Acadêmico
-
-Projeto desenvolvido no contexto da disciplina de **Análise de Projeto e Sistemas (APS)** do curso de Ciência da Computação do **UNIPÊ — Centro Universitário de João Pessoa**.
-
-O trabalho contempla planejamento, levantamento de requisitos, arquitetura de software, modelagem UML, estruturação do banco de dados, infraestrutura, documentação e estratégias de qualidade.
-
-## 📌 Status do Projeto
-
-**Em fase de planejamento e documentação.**
-
-O CondoSmart representa uma especificação técnica e arquitetural para orientar o futuro desenvolvimento de uma plataforma de gestão condominial. O documento acadêmico não contempla a implementação de um sistema funcional.
-
 ---
 
 **CondoSmart — Gestão inteligente, organização e praticidade para o seu condomínio.**
